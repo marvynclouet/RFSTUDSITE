@@ -1,0 +1,18 @@
+{
+  "name": "rfstudio-site",
+  "version": "1.0.0",
+  "description": "RF Studio - Site vitrine avec réservation",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "googleapis": "^128.0.0"
+  },
+  "devDependencies": {},
+  "keywords": ["studio", "recording", "music"],
+  "author": "",
+  "license": "ISC"
+}
+
